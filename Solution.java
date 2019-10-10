@@ -110,6 +110,7 @@ class Solution
         catch(Exception e)
         {
             System.out.println("give proper inputs : follow eg pattern");
+            System.out.println("");
 
         }
     }
